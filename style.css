@@ -1,0 +1,45 @@
+#navbar {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.About {
+    margin-right: 300px;
+}
+
+#navbar a.links {
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+#navbar a.SignIn {
+    margin-top: 11px;
+    padding-top: 9px;
+    padding-right: 23px;
+    padding-bottom: 9px;
+    padding-left: 23px;
+    background: blue;
+    color: white;
+}
+
+#logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+#search {
+    display:flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.button {
+    text-align: center;
+    margin-top: 15px;
+    border: none;
+}
+
+#search input{
+    width: 400px;
+}
